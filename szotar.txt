@@ -1,0 +1,7 @@
+hello = szia
+cat = cica, macska
+apple = alma
+dog = kutya, eb
+ice cream = fagyi, fagylalt
+water = víz
+house = ház
